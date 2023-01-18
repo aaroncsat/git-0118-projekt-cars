@@ -1,0 +1,39 @@
+[
+    {
+        "márka" : "Ford",
+        "Típus" : "Focus",
+        "évjárat": 2005
+
+    },
+
+
+    {
+        "márka" : "Suzuki",
+        "Típus" : "Vitara",
+        "évjárat": 2007
+
+    },
+
+
+    {
+        "márka" : "Ford",
+        "Típus" : "Mondeo",
+        "évjárat": 2015
+
+    },
+
+    {
+        "márka" : "Audi",
+        "Típus" : "A5",
+        "évjárat": 2005
+
+    },
+
+    {
+        "márka" : "Honda",
+        "Típus" : "Accord",
+        "évjárat": 2004
+
+    }
+
+]
