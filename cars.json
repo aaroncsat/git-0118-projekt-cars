@@ -1,38 +1,38 @@
 [
     {
-        "márka" : "Ford",
-        "Típus" : "Focus",
-        "évjárat": 2005
+        "marka" : "Ford",
+        "tipus" : "Focus",
+        "evjarat": 2005
 
     },
 
 
     {
-        "márka" : "Suzuki",
-        "Típus" : "Vitara",
-        "évjárat": 2007
+        "marka" : "Suzuki",
+        "tipus" : "Vitara",
+        "evjarat": 2007
 
     },
 
 
     {
-        "márka" : "Ford",
-        "Típus" : "Mondeo",
-        "évjárat": 2015
+        "marka" : "Ford",
+        "tipus" : "Mondeo",
+        "evjarat": 2015
 
     },
 
     {
-        "márka" : "Audi",
-        "Típus" : "A5",
-        "évjárat": 2005
+        "marka" : "Audi",
+        "tipus" : "A5",
+        "evjarat": 2005
 
     },
 
     {
-        "márka" : "Honda",
-        "Típus" : "Accord",
-        "évjárat": 2004
+        "marka" : "Honda",
+        "tipus" : "Accord",
+        "evjarat": 2004
 
     }
 

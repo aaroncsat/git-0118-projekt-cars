@@ -29,12 +29,13 @@ h1{
     font-size: 51px;
 }
 
-.result{
+#result{
 
     display: grid;
-    grid-template-columns: 1fr, 1fr,1fr;
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
     margin-top: 50px;
+
 }
 
 .car{
@@ -42,5 +43,5 @@ h1{
     box-shadow: 0 2px 60px rgb(112,112,252);
     padding: 10px;
     border-radius: 8px;
-    
+
 }
